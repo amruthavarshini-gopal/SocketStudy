@@ -24,7 +24,7 @@ Socket programming involves the use of sockets, which serve as endpoints for com
 
 •	Stream Sockets provide a reliable, connection-oriented communication, while Datagram Sockets are connectionless and operate in a best-effort mode.
 
-2. Client-Server Model:
+2.Client-Server Model:
 
 •	Socket programming typically follows the client-server model.
 
@@ -32,7 +32,7 @@ Socket programming involves the use of sockets, which serve as endpoints for com
 
 •	Servers are passive, waiting for connection requests, and clients are active, initiating communication.
 
-3. TCP/IP Protocol:
+3.TCP/IP Protocol:
 
 •	Transmission Control Protocol (TCP) and Internet Protocol (IP) are the foundational protocols for socket programming.
 
@@ -40,7 +40,7 @@ Socket programming involves the use of sockets, which serve as endpoints for com
 
 •	IP facilitates the routing of data between devices in a network.
 
-4. Basic Socket Functions:
+4.Basic Socket Functions:
 
 •	Socket programming involves a set of functions provided by the operating system or programming language to create, bind, listen, accept, connect, send, and receive data through sockets.
 
